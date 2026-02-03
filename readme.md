@@ -1,5 +1,5 @@
 
-# 🚀 JSON-Avro Optimization: Kafka Performance Benchmark
+## 🚀 JSON-Avro Optimization: Kafka Performance Benchmark
 
 This project is an experimental study analyzing the trade-offs between infrastructure efficiency (Memory, Disk, Network) and system performance (Events Per Second) based on data serialization formats (JSON vs. Avro).
 
